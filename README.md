@@ -9,4 +9,5 @@ A simple Python implementation of the [Google bug prediction algorithm](https://
 
 ## usage
 
+    export GITHUB_TOKEN=<your github API token>
     env/bin/python hotspots.py username/repo
